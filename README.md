@@ -17,7 +17,7 @@
 🌱 &nbsp;I'm on track for learning more about cloud services and web development.\
 ✍️ &nbsp;In my free time, I like to stay active exercising or networking with other people.\
 ✉️ &nbsp;You can send me an email at franciscoguerraquintanilla@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1KdzEXqtCf0u3dTVndKgdamFhviWv71lJ/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1jv4KfkrRd8UToa8nz4bh9CcLAV45M-M9/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
