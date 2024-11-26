@@ -17,7 +17,7 @@
 🌱 &nbsp;I'm on track for learning more about cloud services and web development.\
 ✍️ &nbsp;In my free time, I like to stay active exercising or networking with other people.\
 ✉️ &nbsp;You can send me an email at franciscoguerraquintanilla@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1KdzEXqtCf0u3dTVndKgdamFhviWv71lJ/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -43,7 +43,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/pacoguerraq">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pacoguerraq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pacoguerraq&layout=compact&langs_count=8&theme=algolia"/>
 </a>
