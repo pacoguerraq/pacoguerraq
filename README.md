@@ -1,59 +1,79 @@
 ![Screenshot 2024-07-08 at 12 02 31 p m](https://github.com/pacoguerraq/pacoguerraq/assets/65269829/6e3b2590-f3ca-4914-aab9-2f4339fec7b8)
 
- ## 👋 &nbsp;Hey there! I'm Paco
+ ## 👋 Hi, I'm Paco
 
-> I am a recent graduate👨‍🎓 with a B.S. in Computer Science and Technology Engineering from Tecnológico de Monterrey🇲🇽. With a passion for software development and a commitment to continuous learning, I am eager to contribute to the tech industry👨🏽‍💻.
+I'm a Full Stack Software Engineer based in Mexico with professional experience building and maintaining production-grade web applications across frontend, backend, and cloud infrastructure. I specialize in JavaScript and TypeScript ecosystems, with a strong focus on scalable backend services and modern React-based frontends.
 
-> Throughout my academic journey📚 and multiple internships💼, I have gained extensive experience in full-stack development, mastering both front-end and back-end technologies. From building and deploying dynamic web applications🌐 to meeting business needs, I excel in JavaScript-based technologies like React and Next.js. Additionally, I have experience with web frameworks such as Ruby on Rails and Django, along with automation tools like Selenium and mobile application development with Swift and React Native📱.
+I’ve worked in both enterprise and startup environments, contributing to large codebases as well as shipping full-stack products end-to-end. My experience includes designing RESTful APIs, working with NoSQL and SQL databases, integrating authentication and payments, and deploying cloud-native systems using AWS. I enjoy solving complex problems, writing clean and reliable code, and collaborating with cross-functional teams to deliver real business impact.
 
-> Balancing academic pursuits and real-world projects⚖️, I have honed my communication and project management skills, employing agile methodologies for both academic and professional success. My recent work includes building and deploying dynamic web applications to meet business needs.
+I’m particularly interested in backend-heavy full-stack roles, cloud architecture, and building systems that scale reliably over time.
 
-> As a quick learner and adaptable professional🚀, I embrace change and thrive in dynamic environments. I am excited to explore new opportunities and connect with like-minded professionals in the tech industry. Let's connect and discuss how we can create exceptional value together through technology🤝.
+---
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨‍💻 About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions that have a real impact on the world.\
-🎓 &nbsp;I'm a recent graduate from B.S. Computer Science and Technology Engineering at Tecnológico de Monterrey.\
-🌱 &nbsp;I'm on track for learning more about cloud services and web development.\
-✍️ &nbsp;In my free time, I like to stay active exercising or networking with other people.\
-✉️ &nbsp;You can send me an email at franciscoguerraquintanilla@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/17ZKyYEwnxObjOTTt3QRt_A-zKf6MS__1/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 💡 I enjoy building software systems that are scalable, reliable, and maintainable  
+- 🎓 B.S. in Computer Science and Technology Engineering — Tecnológico de Monterrey  
+- ☁️ Strong experience with cloud-native development (AWS, serverless architectures)  
+- 🔍 Detail-oriented, methodical, and analytical problem solver  
+- 🤝 Comfortable working in remote, distributed, English-speaking teams  
+- 📬 Reach me at **franciscoguerraquintanilla@gmail.com**  
+- 📄 View my [CV](https://drive.google.com/file/d/17ZKyYEwnxObjOTTt3QRt_A-zKf6MS__1/view)
 
-### 🛠 &nbsp;Tech Stack
+---
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-05122A?style=flat&logo=ruby-on-rails)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+### 🛠 Tech Stack
 
-### ⚙️ &nbsp;GitHub Analytics
+**Languages**
+- JavaScript (ES6+), TypeScript, Python, C#
+
+**Frontend**
+- React, Next.js, React Native  
+- Tailwind CSS, CSS/SASS, HTML  
+
+**Backend**
+- Node.js, Express  
+- RESTful APIs, Serverless architectures  
+- .NET (C#, LINQ)
+
+**Databases**
+- PostgreSQL, SQL Server  
+- DynamoDB (NoSQL)
+
+**Cloud & DevOps**
+- AWS (Lambda, API Gateway, S3, Cognito, Secrets Manager)  
+- Vercel  
+- CI/CD pipelines
+
+**Tools & Practices**
+- Git, GitHub  
+- Agile / Scrum  
+- Unit & integration testing  
+- Selenium (automation)
+
+---
+
+### ⚙️ GitHub Stats
 
 <p align="center">
-<a href="https://github.com/pacoguerraq">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pacoguerraq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pacoguerraq&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/pacoguerraq">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pacoguerraq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pacoguerraq&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+---
+
+### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/franciscoguerraquintanilla" target="_blank"><img src="https://img.shields.io/badge/-franciscoguerraquintanilla-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:franciscoguerraquintanilla@gmail.com"><img src="https://img.shields.io/badge/-franciscoguerraquintanilla@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!-- <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
-<!-- <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
+  <a href="https://www.linkedin.com/in/franciscoguerraquintanilla" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-franciscoguerraquintanilla-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:franciscoguerraquintanilla@gmail.com">
+    <img src="https://img.shields.io/badge/Email-franciscoguerraquintanilla@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://pacoguerraq.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-https://pacoguerraq.dev-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
